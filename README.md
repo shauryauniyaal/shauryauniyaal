@@ -12,7 +12,7 @@ I'm still in the process of learning and diving deeper into AI, ML, and Web Deve
 I’m always open to connecting with fellow learners and developers. Check out my repositories and feel free to reach out if you want to collaborate or share ideas!
 
 📫 How to Reach Me:
-LinkedIn: https://www.linkedin.com/in/shaurya-uniyal-8b7371306
+LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaurya-uniyal-8b7371306/)
 
 <!--
 **shauryauniyaal/shauryauniyaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
